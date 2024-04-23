@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "@discordjs/voice": "^0.16.1",
+    "discord.js": "^14.14.1",
+    "express": "^4.19.2",
+    "libsodium-wrappers": "^0.7.13"
+  },
+  "scripts": {
+    "start": "node ."
+  },
+  "type": "module"
+}
